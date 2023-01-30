@@ -1,0 +1,13 @@
+/* Detail page */
+
+div.card {
+    min-height: 75vh;
+}
+
+.breadcrumb-symbol::before {
+    content: "\e649";
+    font-family: themify;
+    color: #ced4da;
+    font-size: 11px;
+    padding-right: 0.5rem;
+}
